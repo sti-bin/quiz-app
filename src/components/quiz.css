@@ -1,0 +1,32 @@
+styles{
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+
+   }
+   .child{
+     background: #fffbfb;
+     padding: 10px;
+     border-radius: 12px;
+     width: 550px;
+     margin-bottom: 15px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   }
+   .quiz{
+     background-color: rgb(223, 138, 138);
+     margin-top: 5px;
+     gap: 5px;
+     margin-bottom: 5px;
+     border-radius: 4px;
+     padding: 5px;
+
+   }
+   .answer{
+     margin-top: 5px;
+     background-color: rgb(81, 212, 110);
+     margin-bottom: 5px;
+     border-radius: 4px;
+     padding: 5px;
+   }
